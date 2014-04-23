@@ -57,4 +57,5 @@ Vagrantfile
 bootstrap.sh
 
 local_settings.py
+*.sqlite3
 
