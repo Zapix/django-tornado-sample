@@ -51,4 +51,8 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+.vagrant/*
+.idea/*
+Vagrantfile
+bootstrap.sh
 
