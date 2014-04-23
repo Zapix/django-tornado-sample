@@ -56,3 +56,5 @@ docs/_build/
 Vagrantfile
 bootstrap.sh
 
+local_settings.py
+

@@ -100,3 +100,8 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 )
 
 SITE_ID = 1
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
